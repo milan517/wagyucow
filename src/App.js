@@ -9,7 +9,7 @@ function App() {
         <p>Owner: 0x0000000000000000000000000000000000000000</p>
         <p>Birth Date: 24/02/2008</p>
         <p>Birth Place: BESELARE</p>
-        <p>Gender: X</p>
+        <p>Gender: M</p>
         <p>Mother ID: 980</p>
         <p>Father ID: 7688</p>
         <p>Slaughter Date: 0</p>
