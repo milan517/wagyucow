@@ -17,7 +17,7 @@ function App() {
         <p>Farm Owner: 0xE8FC494786F3034Fd413ae6287097615a4AE1Ed0</p>
         <p>Fat Content: 55%</p>
         <p>Served: No</p>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwagyuvleesvandeboer.nl%2Fons-verhaal%2F&psig=AOvVaw0hBz5IeuHG5oEJWb1FYXIp&ust=1713696526148000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj-mJjP0IUDFQAAAAAdAAAAABAJ>" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Wagyu.jpg" />
       </div>
   );
 }
